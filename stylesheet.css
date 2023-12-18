@@ -26,7 +26,7 @@ h4 {
 }
 .navbar {
         background-image: url('Sternchen.png');
-        background-size: cover;
+        background-size: 10px auto;
 		background-repeat: no-repeat;
         color: #f00c93;
         position: sticky;
