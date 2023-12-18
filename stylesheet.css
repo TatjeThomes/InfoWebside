@@ -28,7 +28,7 @@ h4 {
         background-image: url('../Bilder/Schneelandschaft001+002+003+004.png.jpg');
         background-size: cover;
 		background-repeat: no-repeat;
-        color: pink;
+        color: #f00c93;
         position: sticky;
 }
 .navbar-brand {
